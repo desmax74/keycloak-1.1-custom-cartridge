@@ -6,7 +6,7 @@ Version: '8'
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: WildFly
-Cartridge-Version: 0.0.5
+Cartridge-Version: '0.0.5'
 Cartridge-Vendor: wildfly
 Categories:
 - service
