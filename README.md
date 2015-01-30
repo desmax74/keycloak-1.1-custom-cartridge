@@ -1,6 +1,6 @@
 # OpenShift Keycloak Cartridge
 
-This repo contain only the manifest.yml of keycloak 1.0.1
+This repo contain only the manifest.yml of keycloak 1.1.0
 
 You can build a gear using this cartridge with the following command:
 
